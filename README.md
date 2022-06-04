@@ -1,3 +1,6 @@
+
+This is project demonstration of how Blokchain, which is gaining popularity in long term security can be used in PRNG.
+
 # PRNG-Beacon-using-Blockchain
 Public randomness is a critical component in many (distributed) protocols. 
 Generating public randomness is hard when there is no trusted party, and active adversaries may behave dishonestly to bias the randomness toward their advantage. 
@@ -9,3 +12,4 @@ We use the Ethereum development environment, Truffle suite, with Ganache as a pe
 
 We will provide the smart contract codes. The smart contracts are written in Solidity language and were first tested on Remix Ethereum(Remix) and eventually we tested them using Truffle suite and Ganache blockchain.
 
+These scripts are fully tested locally (not production) so please use at your own discretion.
