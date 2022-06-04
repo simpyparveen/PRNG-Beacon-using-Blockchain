@@ -12,4 +12,4 @@ We use the Ethereum development environment, Truffle suite, with Ganache as a pe
 
 We will provide the smart contract codes. The smart contracts are written in Solidity language and were first tested on Remix Ethereum(Remix) and eventually we tested them using Truffle suite and Ganache blockchain.
 
-These scripts are fully tested locally (not production) so please use at your own discretion.
+_These scripts are fully tested locally (not production) so please use at your own discretion._
